@@ -7,7 +7,7 @@ import Sub from './components/Sub/Sub';
 function App() {
   return (
     <div>
-    <h1>First React Class</h1>
+    <h1>First React Class 22</h1>
     <p>swapnil</p>
     <Add a = '5' b = '3'></Add>                
     <Sub s = '8' t='3'/>

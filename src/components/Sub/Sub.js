@@ -3,7 +3,7 @@ const Sub = (abc) => {
     return(
 
         <div>
-            <p>This is Sub Component</p>
+            <p>This is a Sub Component 1</p>
             <p>Substraction = {parseInt(abc.s)-parseInt(abc.t)}</p>
         </div>
 
