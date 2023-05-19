@@ -1,5 +1,6 @@
-const Add = (xyz) => {
 
+        const Add = (xyz) => {
+        console.log('xyz',xyz);
         return(
             <div>
                 <p>This is Add Component</p>
