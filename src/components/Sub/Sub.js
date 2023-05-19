@@ -1,4 +1,5 @@
 const Sub = (abc) => {
+    console.log('abc',abc);
 
     return(
 

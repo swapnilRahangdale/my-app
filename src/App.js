@@ -36,7 +36,7 @@ function App() {
      <button  onClick={printValue()}>Print</button>
     <p>Input Value : {inputValue}</p>
     <Add a = {inputValue} b = '3'></Add>                
-    <Sub s = '8' t='3'/>
+    <Sub s = {inputValue} t='3'/>
     </div>
   );
 }
