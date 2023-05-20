@@ -7,7 +7,8 @@ const Cal = () => {
         {value : 1, btFun: () => {console.log(1)}},
         {value : 2, btFun: () => {console.log(2)}},
         {value : 3, btFun: () => {console.log(3)}},
-        {value : 4, btFun: () => {console.log(4)}}
+        {value : 4, btFun: () => {console.log(4)}},
+        {value : 5, btFun: () => {console.log(5)}}
     ];
 
   return (
