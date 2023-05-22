@@ -7,7 +7,7 @@ const Cal = () => {
 
     const allBtArr = [
         
-        {value : 0, btFun: () => { setInputVal1(0)}},
+        {value : 0, btFun: () => {setInputVal1(0)}},
         {value : 1, btFun: () => {setInputVal1(1)}},
         {value : 2, btFun: () => {setInputVal1(2)}},
         {value : 3, btFun: () => {setInputVal1(3)}},
